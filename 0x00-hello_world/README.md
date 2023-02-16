@@ -1,2 +1,2 @@
 #!/bin/bash
-This readme file is for the first project task in C programming language.
+This readme file describes the projects taken on C programming language.

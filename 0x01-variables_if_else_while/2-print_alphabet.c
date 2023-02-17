@@ -2,6 +2,7 @@
 /**
  * main - Prints the alphabet in lowercase
  * @argi: the increment member
+ * Return: 0 (success)
  */
 int main(void)
 {

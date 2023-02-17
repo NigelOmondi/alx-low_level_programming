@@ -1,7 +1,6 @@
 #include <stdio.h>
 /**
- *
- * main - print numbers and letters of base 16
+ * func main - print numbers and letters of base 16
  *
  * Return: 0 (success)
  */
@@ -11,7 +10,7 @@ int main(void)
 
 	for (i = 0; i < 16; i++)
 	{
-		if ( i < 10)
+		if (i < 10)
 		{
 			putchar(i + '0');
 		}

@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * Main - print numbers and letters of base 16
+ * main - Print numbers and letters of base 16
  *
  * Return: 0 (success)
  */

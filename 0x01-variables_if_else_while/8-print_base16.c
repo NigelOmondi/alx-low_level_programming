@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * func main - print numbers and letters of base 16
+ * Main - print numbers and letters of base 16
  *
  * Return: 0 (success)
  */

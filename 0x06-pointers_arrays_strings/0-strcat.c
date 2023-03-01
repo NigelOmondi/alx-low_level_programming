@@ -3,7 +3,7 @@
 /**
  * *_strcat(char *dest, char *src) - concatenates two strings
  * @*dest: string one to be added onto
- & @*src: the string to add to the end of string *dest
+ * & @*src: the string to add to the end of string *dest
  * Return: Char pointer to the resulting string dest
  */
 char *_strcat(char *dest, char *src)

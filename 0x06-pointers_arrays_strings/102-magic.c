@@ -1,4 +1,7 @@
 #include <stdio.h>
+/** make tabs 4 spaces
+ *
+ */
 
 int main(void)
 {

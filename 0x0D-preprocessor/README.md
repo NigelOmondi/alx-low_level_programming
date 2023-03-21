@@ -1,1 +1,1 @@
-This folder contains project handling C program preprocessor.
+This folder contains the projects for C program preprocessor assignments.

@@ -1,5 +1,6 @@
 #include "main.h"
 
+
 /**
 * get_endianness - determines whether the current system is little endian
 * or big endian.
